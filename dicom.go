@@ -7,8 +7,8 @@ import (
 )
 
 type Tag struct {
-	Group   uint16
-	Element uint16
+	GroupNumber   uint16
+	ElementNumber uint16
 }
 
 type Element struct {
